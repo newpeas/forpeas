@@ -1,1 +1,1 @@
-i  am commmittting the message for the 3rd time is this thing ok for u ?
+this is the last commit message i have been adding to the  read me file revert back if any changes needded 
